@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CheckBox</string>
+    <string name="action_settings">Settings</string>
+    <string name="title">What is your favorite flavor of ice cream?</string>
+    <string name="vanilla_title">Vanilla</string>
+    <string name="chocolate_title">Chocolate</string>
+    <string name="tutti_fruity_title">Tutti Fruity</string>
+    <string name="button_title">Show</string>
+    <string name="text_show">Show...</string>
+</resources>
